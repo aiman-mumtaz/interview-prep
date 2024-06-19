@@ -8,14 +8,13 @@ long long powerThree(int x, int n,long long val){
     return powerThree(x+1,n,val);
 }
     bool isPowerOfThree(int n) {
-        long long val = 0;
         if(n==0){
             return false;
         }
         if(n==1){
             return true;
         }
-        if(n==powerThree(1,n,val)){
+        if(n==powerThree(1,n,0)){
             return true;
         }
         return false;
