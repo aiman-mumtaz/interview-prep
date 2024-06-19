@@ -25,3 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/aiman-mumtaz/interview-prep/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aiman-mumtaz/interview-prep/tree/master/0342-power-of-four) |
+# Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0125-valid-palindrome) |
+# String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0125-valid-palindrome) |
