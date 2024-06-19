@@ -1,10 +1,20 @@
 class Solution {
 public:
-
-    int fib(int x) {
-        if(x<2){
-            return x;
+    int fib(int n) {
+        int sum = 0;
+        if(n<2){
+            return n;
         }
-        return fib(x-1)+fib(x-2);
+        int a = 0;
+        int b = 1;
+        for(int i=2;i<=n;i++){
+            sum = a+b;
+            // cout<<sum<<" ";
+            
+            a=b;
+            b=sum;
+        }
+        // cout<<sum;
+        return sum;
     }
 };
