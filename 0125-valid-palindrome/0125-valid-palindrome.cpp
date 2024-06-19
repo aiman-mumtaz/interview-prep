@@ -13,11 +13,8 @@ public:
             return true;
         }
         
-        cout<<x;
         while(i<j){
             if(x[i] != x[j]){
-                
-                cout<<x[i];
                 return false;
             }
             i++;
