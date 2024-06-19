@@ -1,11 +1,12 @@
 class Solution {
 public:
+
     bool isPalindrome(string s) {
         string x = "";
-        for(auto i: s){
-            i = (char)tolower(i);
+        for(char i: s){
+            // i = (char)tolower(i);
             if((i>='a' && i<='z') || (i>='A' && i<='Z') || (i>='0' && i<='9')){
-                x+=i;
+                x+=(char)tolower(i);
             }
         }
         int i=0,j=x.length()-1;
