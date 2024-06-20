@@ -1,16 +1,18 @@
 class Solution {
 public:
+    static bool cmp(const pair<string,int>& b,const pair<string,int>& a){
+        return a.second<b.second;
+    }
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        map<int, string> mp;
-        for(int i=0;i<names.size();i++) {
-            mp[heights[i]] = names[i];
+        vector<pair<string,int>> vec;
+        // vector<string> vec(names.size());
+        for(int i=0;i<names.size();i++){
+            vec.push_back(make_pair(names[i],heights[i]));
         }
-        int i = 0;
-        for(auto it : mp) {
-            names[i] = it.second;
-            i++;
+        sort(vec.begin(),vec.end(),cmp);
+        for(int i=0;i<vec.size();i++){
+            names[i]=vec[i].first;
         }
-        reverse(names.begin(), names.end());
         return names;
     }
 };
