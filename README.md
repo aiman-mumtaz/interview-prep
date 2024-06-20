@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
+| [2406-decode-the-message](https://github.com/aiman-mumtaz/interview-prep/tree/master/2406-decode-the-message) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
+| [2406-decode-the-message](https://github.com/aiman-mumtaz/interview-prep/tree/master/2406-decode-the-message) |
 # Counting
 |  |
 | ------- |
