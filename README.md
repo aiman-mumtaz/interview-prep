@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [2406-decode-the-message](https://github.com/aiman-mumtaz/interview-prep/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/aiman-mumtaz/interview-prep/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aiman-mumtaz/interview-prep/tree/master/3412-permutation-difference-between-two-strings) |
 # Dynamic Programming
 |  |
