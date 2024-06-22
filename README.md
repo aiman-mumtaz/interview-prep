@@ -90,3 +90,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aiman-mumtaz/interview-prep/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aiman-mumtaz/interview-prep/tree/master/0232-implement-queue-using-stacks) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aiman-mumtaz/interview-prep/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aiman-mumtaz/interview-prep/tree/master/0232-implement-queue-using-stacks) |
