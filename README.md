@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0228-summary-ranges](https://github.com/aiman-mumtaz/interview-prep/tree/master/0228-summary-ranges) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 # Binary Search
 |  |
