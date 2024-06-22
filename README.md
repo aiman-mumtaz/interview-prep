@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/aiman-mumtaz/interview-prep/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [2406-decode-the-message](https://github.com/aiman-mumtaz/interview-prep/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/aiman-mumtaz/interview-prep/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/aiman-mumtaz/interview-prep/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aiman-mumtaz/interview-prep/tree/master/3412-permutation-difference-between-two-strings) |
 # Dynamic Programming
@@ -81,3 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/aiman-mumtaz/interview-prep/tree/master/2572-append-characters-to-string-to-make-subsequence) |
