@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/aiman-mumtaz/interview-prep/tree/master/0228-summary-ranges) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
@@ -77,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 # Binary Search
 |  |
@@ -105,3 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aiman-mumtaz/interview-prep/tree/master/0232-implement-queue-using-stacks) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
