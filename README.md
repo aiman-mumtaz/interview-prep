@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/aiman-mumtaz/interview-prep/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/aiman-mumtaz/interview-prep/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 # Greedy
 |  |
 | ------- |
