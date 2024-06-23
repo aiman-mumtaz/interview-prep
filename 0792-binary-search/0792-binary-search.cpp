@@ -7,9 +7,9 @@ public:
             if(a[(s+e)/2] == target){
                 return mid;
             }else if(a[mid] > target){
-                e--;
+                e=mid-1;
             }else{
-                s++;
+                s=mid+1;
             }
         }
         return -1;
