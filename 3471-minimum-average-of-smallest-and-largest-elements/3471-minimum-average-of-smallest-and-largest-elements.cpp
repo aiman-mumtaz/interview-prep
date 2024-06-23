@@ -11,7 +11,14 @@ public:
         // for(auto x:avg){
         //     cout<<x<<" ";
         // }
-        sort(avg.begin(),avg.end());
-        return avg[0];
+        double min = INT_MAX;
+        for(int i=0;i<avg.size();i++){
+            if(avg[i]<min){
+                min =avg[i];
+            }
+        }
+        // sort(avg.begin(),avg.end());
+        // return avg[0];
+        return min;
     }
 };
