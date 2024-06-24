@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/aiman-mumtaz/interview-prep/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aiman-mumtaz/interview-prep/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aiman-mumtaz/interview-prep/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aiman-mumtaz/interview-prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aiman-mumtaz/interview-prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aiman-mumtaz/interview-prep/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aiman-mumtaz/interview-prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aiman-mumtaz/interview-prep/tree/master/0342-power-of-four) |
 # Two Pointers
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
@@ -94,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 # Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 # Greedy
