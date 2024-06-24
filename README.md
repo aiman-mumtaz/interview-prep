@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 # Math
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 # Binary Search
 |  |
@@ -128,3 +130,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+# Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+# Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+# Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+# Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
