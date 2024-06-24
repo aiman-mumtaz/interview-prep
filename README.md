@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/aiman-mumtaz/interview-prep/tree/master/0228-summary-ranges) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/aiman-mumtaz/interview-prep/tree/master/0283-move-zeroes) |
