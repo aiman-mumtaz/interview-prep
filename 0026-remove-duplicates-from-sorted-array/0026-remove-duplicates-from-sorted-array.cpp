@@ -7,8 +7,7 @@ public:
         int j=1;
         for(int i=0;i<a.size();i++){
             if((j<a.size()) && (a[i] == a[j]) ){
-                // cout<<j<<endl;
-                a.erase(a.begin()+j-1);
+                a.erase(a.begin()+j);
                 i--;
             }else{
                 j++;
