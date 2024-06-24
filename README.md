@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aiman-mumtaz/interview-prep/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aiman-mumtaz/interview-prep/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/aiman-mumtaz/interview-prep/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aiman-mumtaz/interview-prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aiman-mumtaz/interview-prep/tree/master/0342-power-of-four) |
