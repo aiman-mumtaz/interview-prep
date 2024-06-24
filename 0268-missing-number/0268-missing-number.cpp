@@ -1,18 +1,11 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        vector<int> a(nums.size()+1);
+        int n=nums.size();
+        int nSum = n*(n+1)/2;
         for(int i=0;i<nums.size();i++){
-            a[nums[i]]=1;
+            nSum -= nums[i];
         }
-        for(auto x:a){
-            cout<<x<<" ";
-        }
-        for(int i=0;i<a.size();i++){
-            if(a[i]==0){
-                return i;
-            }
-        }
-        return 0;
+        return nSum;
     }
 };
