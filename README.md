@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aiman-mumtaz/interview-prep/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aiman-mumtaz/interview-prep/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 # Greedy
@@ -158,3 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/aiman-mumtaz/interview-prep/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aiman-mumtaz/interview-prep/tree/master/0278-first-bad-version) |
