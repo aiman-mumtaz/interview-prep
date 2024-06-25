@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/aiman-mumtaz/interview-prep/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/aiman-mumtaz/interview-prep/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aiman-mumtaz/interview-prep/tree/master/3412-permutation-difference-between-two-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/aiman-mumtaz/interview-prep/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Counting
 |  |
 | ------- |
@@ -155,3 +157,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/aiman-mumtaz/interview-prep/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
