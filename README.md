@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aiman-mumtaz/interview-prep/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/aiman-mumtaz/interview-prep/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
