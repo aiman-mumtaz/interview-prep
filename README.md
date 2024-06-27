@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/aiman-mumtaz/interview-prep/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/aiman-mumtaz/interview-prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aiman-mumtaz/interview-prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aiman-mumtaz/interview-prep/tree/master/0837-most-common-word) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/aiman-mumtaz/interview-prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/aiman-mumtaz/interview-prep/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/aiman-mumtaz/interview-prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2502-sort-the-people](https://github.com/aiman-mumtaz/interview-prep/tree/master/2502-sort-the-people) |
 # Binary Search
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aiman-mumtaz/interview-prep/tree/master/0948-sort-an-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/aiman-mumtaz/interview-prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/aiman-mumtaz/interview-prep/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Interactive
 |  |
