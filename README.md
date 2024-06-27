@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aiman-mumtaz/interview-prep/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/aiman-mumtaz/interview-prep/tree/master/1086-divisor-game) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/aiman-mumtaz/interview-prep/tree/master/2752-sum-multiples) |
 # Recursion
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/aiman-mumtaz/interview-prep/tree/master/1086-divisor-game) |
 # Memoization
 |  |
 | ------- |
@@ -178,3 +180,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aiman-mumtaz/interview-prep/tree/master/0278-first-bad-version) |
+# Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/aiman-mumtaz/interview-prep/tree/master/1086-divisor-game) |
+# Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/aiman-mumtaz/interview-prep/tree/master/1086-divisor-game) |
