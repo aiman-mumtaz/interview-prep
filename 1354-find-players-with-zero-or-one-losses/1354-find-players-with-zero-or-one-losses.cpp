@@ -12,16 +12,15 @@ public:
                 }
             }
         }
-        vector<int> zeroth;
-        vector<int> oneth;
+        vector<vector<int>> ans(2);
         for(int i=0;i<loss.size();i++){
             if(loss[i] == 0){
-                zeroth.push_back(i);
+                ans[0].push_back(i);
             }
             if(loss[i] == 1){
-                oneth.push_back(i);
+                ans[1].push_back(i);
             }
         }
-        return {zeroth,oneth};
+        return ans;
     }
 };
