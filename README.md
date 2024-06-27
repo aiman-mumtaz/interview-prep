@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/aiman-mumtaz/interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/aiman-mumtaz/interview-prep/tree/master/1635-number-of-good-pairs) |
+| [2752-sum-multiples](https://github.com/aiman-mumtaz/interview-prep/tree/master/2752-sum-multiples) |
 # Recursion
 |  |
 | ------- |
