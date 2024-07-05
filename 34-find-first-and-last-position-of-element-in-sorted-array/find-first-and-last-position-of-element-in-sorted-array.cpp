@@ -4,7 +4,7 @@ public:
         int s = 0,e=a.size()-1;
         int lower = -1;
         while(s<=e){
-            int mid = s+ (e-s)/2;
+            double mid = (s+e)/2;
             if(a[mid] == target){
                 lower = mid;
                 e = mid-1;
@@ -20,7 +20,7 @@ public:
         int s = 0,e=a.size()-1;
         int upper = -1;
         while(s<=e){
-            int mid = s+ (e-s)/2;
+            double mid = (s+e)/2;
             if(a[mid] == target){
                 upper = mid;
                 s = mid+1;
