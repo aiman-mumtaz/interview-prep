@@ -9,13 +9,10 @@ public:
         for(char x: magazine){
             arr1[x-'a']++;
         }
-
         for(int i=0;i<26;i++){
             if(arr[i] > arr1[i]){
                 return false;
             }
-            // cout<<x<<"\n";
-            // cout<<x.first<<" "<<x.second<<endl;
         }
         return true;
     }
