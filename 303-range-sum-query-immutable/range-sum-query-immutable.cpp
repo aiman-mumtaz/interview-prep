@@ -16,7 +16,7 @@ public:
         if(left > 0){
             return pref[right] - pref[left-1];
         }
-        return (pref[right]);
+        return pref[right];
     }
 };
 
