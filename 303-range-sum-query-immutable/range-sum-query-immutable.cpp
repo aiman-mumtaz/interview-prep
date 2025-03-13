@@ -9,16 +9,14 @@ public:
         for(int i=1;i<nums.size();i++){
             pref.push_back(pref[i-1]+nums[i]);
         }
-        for(auto x: pref){
-            cout<<x<<" ";
-        }
+        
     }
     
     int sumRange(int left, int right) {
         if(left > 0){
             return pref[right] - pref[left-1];
         }
-        return pref[right];
+        return (pref[right]);
     }
 };
 
