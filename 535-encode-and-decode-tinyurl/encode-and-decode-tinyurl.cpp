@@ -9,8 +9,7 @@ public:
         if(mpp.find(longUrl) != mpp.end()){
             return mpp[longUrl];
         }else{
-            int len = 7;
-            for (int i = 0; i < len; ++i) {
+            for (int i = 0; i < 5; i++) {
                 shortUrl += characters[rand() % 51];
             }
             mpp.insert({longUrl,shortUrl});
