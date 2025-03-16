@@ -11,7 +11,6 @@ public:
                     ans++;
                 }
             }
-            cout<<"\n";
         }
         return ans;
     }
