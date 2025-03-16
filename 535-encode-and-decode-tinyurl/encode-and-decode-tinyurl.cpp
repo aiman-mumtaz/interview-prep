@@ -11,9 +11,8 @@ public:
         }else{
             int len = 7;
             for (int i = 0; i < len; ++i) {
-                shortUrl += characters[rand() % (sizeof(characters) - 1)];
+                shortUrl += characters[rand() % 51];
             }
-            // cout<<longUrl<<" "<<shortUrl<<" ";
             mpp.insert({longUrl,shortUrl});
         }
         return shortUrl;
