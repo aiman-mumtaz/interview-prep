@@ -13,7 +13,7 @@ public:
         while(cnt--){
             ans.push_back(0);
         }
-        a= ans;
+        a = ans;
         
     }
 };
