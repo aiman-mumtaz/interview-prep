@@ -4,9 +4,6 @@ public:
         string s;
         int cnt = 1;
         for(int i=0;i<a.size();i++){
-            if(i==a.size()-1){
-
-            }
             if((i<a.size()-1) && (a[i] == a[i+1])){
                 cnt++;
             }else{
