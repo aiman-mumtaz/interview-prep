@@ -9,7 +9,6 @@ public:
             }
         }
         for(int i=0;i<a.size();i++){
-            cout<<a[i]+k<<" ";
             if((a[i]+k) >= greatest){
                 ans[i]=true;
             }else{
