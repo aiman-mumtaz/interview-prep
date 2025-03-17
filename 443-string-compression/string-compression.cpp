@@ -16,7 +16,7 @@ public:
             }
 
         }
-        a.clear();
+        a={};
         for(auto x:s){
             a.push_back(x);
         }
