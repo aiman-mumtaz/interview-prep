@@ -11,7 +11,6 @@ public:
                 return "";
             }
         }
-        // calc pattern
         for(int i=0;i<len;i++){
             ans+=s1[i];
         }
