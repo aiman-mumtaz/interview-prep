@@ -11,15 +11,11 @@ public:
                 return "";
             }
         }
+        // calc pattern
         for(int i=0;i<len;i++){
-            // if(s1[i] != s2[i]){
-            //     return ans;
-            // }else{
             ans+=s1[i];
-            // }
         }
         int j=0;
-        cout<<s1[0];
         for(int i=len;i<s2.size();i++){
             if(j<s1.length() && s1[j] != s2[i]){
                 return "";
