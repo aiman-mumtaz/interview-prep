@@ -11,19 +11,11 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        string ans = "";
+        int ans = 0;
         while(head){
-            ans += to_string(head->val);
+            ans = ans * 2 +head->val;
             head= head->next;
         }
-        int j=ans.length()-1;
-        int cnt =0;
-        int value=0;
-        while(j>=0){
-            value += (pow(2,cnt)*(ans[j]-'0'));
-            j--;
-            cnt++;
-        }
-        return value;
+        return ans;
     }
 };
