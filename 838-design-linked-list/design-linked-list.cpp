@@ -1,101 +1,96 @@
-class node{
+class Node {
     public:
-    int val;
-    node *next;
-    node(int data)
-    {
-        val=data;
-        next=NULL;
-    }
+        int val;
+        Node* next;
+
+        Node(int val){
+            this->val = val;
+            this->next = NULL;
+        }
 };
 class MyLinkedList {
 public:
-    node*head;
+    Node* head;
     MyLinkedList() {
-        head=NULL;
+        head = NULL;
     }
-    int length(){
-        int count=0;
-        node*temp=head;
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
+    int get(int index) {
+        Node* tmp = head;
+        int cnt = 0;
+        while(tmp){
+            if(cnt == index)    return tmp->val;
+            tmp = tmp->next;
+            cnt++;
         }
-    return count;
-    }
-    int get(int k) {
-        int len=length();
-        if (head == NULL) return -1;
-        else if(len<k) return -1;
-        else{
-            int count=0;
-            node*temp=head;
-            while(count<k){
-                temp=temp->next;
-                count++;
-            }
-            if (temp == NULL) return -1;
-            return temp->val; 
-        }
+        return -1;
     }
     
-    void addAtHead(int value) {
-        node *new_node=new node(value);
-        new_node->next=head;
-        head=new_node;
+    void addAtHead(int val) {
+        Node* tmp = new Node(val);
+        tmp->next = head;
+        head = tmp;
     }
     
-    void addAtTail(int value) {
-       node *new_node=new node(value);
-        if(head==NULL){
-            head=new_node;
+    void addAtTail(int val) {
+        Node* add = new Node(val);
+        if(head == NULL){
+            head = add;
+            return;
         }
-        else{
-            node*temp=head;
-            while(temp->next!=NULL){
-                temp=temp->next;
-            }
-            temp->next=new_node;
-        } 
+        Node* tmp = head;
+        while(tmp->next){
+            tmp =tmp->next;
+        }
+        tmp->next = add;
     }
     
-    void addAtIndex(int k, int value) {
-        node*new_node=new node(value);
-        if(k==0){
-            addAtHead(value);
+    void addAtIndex(int index, int val) {
+        if(index == 0){
+            return addAtHead(val);
         }
-        else{
-            int count=0;
-            node*temp=head;
-            while(temp!=NULL && count<k-1){
-                temp=temp->next;
-                count++;
-            }
-            if (temp == NULL) return;
-            node*right=temp->next;
-            temp->next=new_node;
-            new_node->next=right;
+        Node* tmp = head;
+        while(tmp != NULL && index>1){
+            tmp=tmp->next;
+            index--;
         }
+        if(tmp == NULL){
+            return;
+        }
+        
+        Node* add = new Node(val);
+        add->next = tmp->next;
+        tmp->next = add;
     }
     
-    void deleteAtIndex(int k) {
-        if (head == NULL) return;
-        else if(k==0){
-            node*del=head;
-            head=head->next;
+    void deleteAtIndex(int index) {
+        if(head == NULL)
+            return;
+        if(index == 0){
+            Node* del = head;
+            head = head->next;
             delete del;
+            return;
         }
-        else{
-            int count=0;
-            node*temp=head;
-            while(count<k-1){
-                temp=temp->next;
-                count++;
-            }
-            if (temp == NULL || temp->next == NULL) return;
-            node*del=temp->next;
-            temp->next=temp->next->next;
-            delete del;
+        Node* tmp = head;
+        while(tmp != NULL && index > 1){
+            tmp=tmp->next;
+            index--;
         }
+        if(tmp == NULL || tmp->next == NULL){
+            return;
+        }
+        Node* del = tmp->next;
+        tmp->next = del->next;
+        delete del;
     }
 };
+
+/**
+ * Your MyLinkedList object will be instantiated and called as such:
+ * MyLinkedList* obj = new MyLinkedList();
+ * int param_1 = obj->get(index);
+ * obj->addAtHead(val);
+ * obj->addAtTail(val);
+ * obj->addAtIndex(index,val);
+ * obj->deleteAtIndex(index);
+ */
