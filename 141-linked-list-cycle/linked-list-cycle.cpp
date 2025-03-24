@@ -17,13 +17,11 @@ public:
     
         while(fast && fast->next && fast->next->next){
             if(fast == slow){
-                cout<<fast->val;
                 return true;
             }
             fast = fast->next->next;
             slow=slow->next;
         }
-        cout<<fast->val;
         return false;
     }
 };
