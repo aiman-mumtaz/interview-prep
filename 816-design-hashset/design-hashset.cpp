@@ -1,9 +1,7 @@
 class MyHashSet {
 public:
     bool arr[1000006] = {false};
-    MyHashSet() {
-        
-    }
+    MyHashSet() {}
     
     void add(int key) {
         arr[key] = true;
