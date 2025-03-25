@@ -11,15 +11,5 @@ public:
     void deleteNode(ListNode* node) {
         node->val = node->next->val;
         node->next = node->next->next;
-        // ListNode* tmp = node;
-        // while(tmp){
-        //     if(tmp->next){
-        //         tmp->val = tmp->next->val;
-        //         tmp=tmp->next;
-        //     }else{
-        //         delete tmp;
-        //         return;
-        //     }
-        // }
     }
 };
