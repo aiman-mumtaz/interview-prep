@@ -18,7 +18,6 @@ public:
             int cnt = 0;
             if(tmp->val == 0){
                 while(tmp->next && tmp->next->val != 0){
-                    // cout<<tmp->next->val<<"  ";
                     cnt += tmp->next->val;
                     tmp = tmp->next;
                 }
@@ -27,9 +26,8 @@ public:
             if(newLL == NULL){
                 newLL = new ListNode(cnt);
                 finalLL = newLL;
-            }else{            
-                ListNode* newNode = new ListNode(cnt);
-                newLL->next = newNode;
+            }else{
+                newLL->next = new ListNode(cnt);
                 newLL = newLL->next;
             }
         }
