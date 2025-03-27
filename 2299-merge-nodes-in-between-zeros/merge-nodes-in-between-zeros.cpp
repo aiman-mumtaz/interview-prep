@@ -11,18 +11,17 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        ListNode* tmp = head;
         ListNode* newLL = NULL;
         ListNode* finalLL = NULL;
-        while(tmp->next){
+        while(head->next){
             int cnt = 0;
-            if(tmp->val == 0){
-                while(tmp->next && tmp->next->val != 0){
-                    cnt += tmp->next->val;
-                    tmp = tmp->next;
+            if(head->val == 0){
+                while(head->next && head->next->val != 0){
+                    cnt += head->next->val;
+                    head = head->next;
                 }
             }
-            tmp= tmp->next;
+            head= head->next;
             if(newLL == NULL){
                 newLL = new ListNode(cnt);
                 finalLL = newLL;
