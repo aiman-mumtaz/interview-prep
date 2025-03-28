@@ -14,19 +14,15 @@ public:
         if(head == NULL || head->next == NULL){
             return head;
         }
-        vector<int> a;
-        ListNode* tmp=head;
-        while(tmp){
-            a.push_back(tmp->val);
-            tmp = tmp->next;
+        ListNode* current = head;
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
+        while(current){
+            next = current->next;
+            current->next = prev;
+            prev = current;
+            current = next;
         }
-        tmp = head;
-        int i = a.size()-1;
-        while(tmp){
-            tmp->val = a[i];
-            i--;
-            tmp = tmp->next;
-        }
-        return head;
+        return prev;
     }
 };
